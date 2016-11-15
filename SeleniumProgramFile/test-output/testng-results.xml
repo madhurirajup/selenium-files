@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="76" started-at="2016-11-02T23:11:55Z" finished-at="2016-11-02T23:11:56Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="76" started-at="2016-11-02T23:11:55Z" finished-at="2016-11-02T23:11:56Z">
+      <class name="TestngClass.UsingTestAnotation">
+        <test-method status="PASS" signature="function1()[pri:0, instance:TestngClass.UsingTestAnotation@5c7ccd08]" name="function1" duration-ms="31" started-at="2016-11-02T16:11:55Z" finished-at="2016-11-02T16:11:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- function1 -->
+        <test-method status="PASS" signature="function2()[pri:0, instance:TestngClass.UsingTestAnotation@5c7ccd08]" name="function2" duration-ms="0" started-at="2016-11-02T16:11:56Z" finished-at="2016-11-02T16:11:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- function2 -->
+      </class> <!-- TestngClass.UsingTestAnotation -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,249 @@
+!SESSION 2016-11-02 10:21:47.339 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.version=1.7.0_79
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2016-11-02 10:23:44.100
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2016-11-02 10:23:44.101
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\anivarth'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.core.net 4 0 2016-11-02 10:35:01.228
+!MESSAGE WinHttp.DetectAutoProxyConfigUrl for wpad failed with error 'The Proxy Auto-configuration URL was not found.
+' #12180.
+
+!ENTRY org.eclipse.core.net 4 0 2016-11-02 10:35:01.235
+!MESSAGE WinHttp.DetectAutoProxyConfigUrl for wpad failed with error 'The Proxy Auto-configuration URL was not found.
+' #12180.
+!SESSION 2016-11-02 14:44:25.969 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.version=1.7.0_79
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2016-11-02 14:45:26.169
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2016-11-02 14:45:26.188
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\anivarth'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.core.net 4 0 2016-11-02 14:49:47.849
+!MESSAGE WinHttp.DetectAutoProxyConfigUrl for wpad failed with error 'The Proxy Auto-configuration URL was not found.
+' #12180.
+
+!ENTRY org.eclipse.core.net 4 0 2016-11-02 14:49:47.849
+!MESSAGE WinHttp.DetectAutoProxyConfigUrl for wpad failed with error 'The Proxy Auto-configuration URL was not found.
+' #12180.
+!SESSION 2016-11-02 15:15:34.406 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.version=1.7.0_79
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2016-11-02 15:16:09.350
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2016-11-02 15:16:09.352
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\anivarth'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.core.net 4 0 2016-11-02 15:18:27.414
+!MESSAGE WinHttp.DetectAutoProxyConfigUrl for wpad failed with error 'The Proxy Auto-configuration URL was not found.
+' #12180.
+
+!ENTRY org.eclipse.jdt.core 4 0 2016-11-02 15:42:51.613
+!MESSAGE Invalid ZIP archive: C:\Users\anivarth\Desktop\poi-3.15\lib\commons-codec-1.10.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2016-11-02 15:42:51.613
+!MESSAGE Invalid ZIP archive: C:\Users\anivarth\Desktop\poi-3.15\lib\commons-collections4-4.1.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2016-11-02 15:42:51.629
+!MESSAGE Invalid ZIP archive: C:\Users\anivarth\Desktop\poi-3.15\lib\commons-logging-1.2.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2016-11-02 15:42:51.629
+!MESSAGE Invalid ZIP archive: C:\Users\anivarth\Desktop\poi-3.15\lib\curvesapi-1.04.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2016-11-02 15:42:51.629
+!MESSAGE Invalid ZIP archive: C:\Users\anivarth\Desktop\poi-3.15\lib\junit-4.12.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2016-11-02 15:42:51.629
+!MESSAGE Invalid ZIP archive: C:\Users\anivarth\Desktop\poi-3.15\lib\log4j-1.2.17.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2016-11-02 15:42:51.629
+!MESSAGE Invalid ZIP archive: C:\Users\anivarth\Desktop\poi-3.15\lib\poi-3.15.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2016-11-02 15:42:51.629
+!MESSAGE Invalid ZIP archive: C:\Users\anivarth\Desktop\poi-3.15\lib\poi-examples-3.15.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2016-11-02 15:42:51.629
+!MESSAGE Invalid ZIP archive: C:\Users\anivarth\Desktop\poi-3.15\lib\poi-excelant-3.15.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2016-11-02 15:42:51.629
+!MESSAGE Invalid ZIP archive: C:\Users\anivarth\Desktop\poi-3.15\lib\poi-ooxml-3.15.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2016-11-02 15:42:51.629
+!MESSAGE Invalid ZIP archive: C:\Users\anivarth\Desktop\poi-3.15\lib\poi-ooxml-schemas-3.15.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2016-11-02 15:42:51.629
+!MESSAGE Invalid ZIP archive: C:\Users\anivarth\Desktop\poi-3.15\lib\poi-scratchpad-3.15.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2016-11-02 15:42:51.629
+!MESSAGE Invalid ZIP archive: C:\Users\anivarth\Desktop\poi-3.15\lib\xmlbeans-2.6.0.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2016-11-02 15:46:53.701
+!MESSAGE Invalid ZIP archive: C:\Users\anivarth\Desktop\poi-3.15\lib\commons-codec-1.10.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2016-11-02 15:46:53.701
+!MESSAGE Invalid ZIP archive: C:\Users\anivarth\Desktop\poi-3.15\lib\commons-collections4-4.1.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2016-11-02 15:46:53.716
+!MESSAGE Invalid ZIP archive: C:\Users\anivarth\Desktop\poi-3.15\lib\commons-logging-1.2.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2016-11-02 15:46:53.716
+!MESSAGE Invalid ZIP archive: C:\Users\anivarth\Desktop\poi-3.15\lib\curvesapi-1.04.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2016-11-02 15:46:53.716
+!MESSAGE Invalid ZIP archive: C:\Users\anivarth\Desktop\poi-3.15\lib\junit-4.12.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2016-11-02 15:46:53.716
+!MESSAGE Invalid ZIP archive: C:\Users\anivarth\Desktop\poi-3.15\lib\log4j-1.2.17.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2016-11-02 15:46:53.716
+!MESSAGE Invalid ZIP archive: C:\Users\anivarth\Desktop\poi-3.15\lib\poi-3.15.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2016-11-02 15:46:53.716
+!MESSAGE Invalid ZIP archive: C:\Users\anivarth\Desktop\poi-3.15\lib\poi-examples-3.15.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2016-11-02 15:46:53.716
+!MESSAGE Invalid ZIP archive: C:\Users\anivarth\Desktop\poi-3.15\lib\poi-excelant-3.15.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2016-11-02 15:46:53.716
+!MESSAGE Invalid ZIP archive: C:\Users\anivarth\Desktop\poi-3.15\lib\poi-ooxml-3.15.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2016-11-02 15:46:53.716
+!MESSAGE Invalid ZIP archive: C:\Users\anivarth\Desktop\poi-3.15\lib\poi-ooxml-schemas-3.15.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2016-11-02 15:46:53.716
+!MESSAGE Invalid ZIP archive: C:\Users\anivarth\Desktop\poi-3.15\lib\poi-scratchpad-3.15.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2016-11-02 15:46:53.716
+!MESSAGE Invalid ZIP archive: C:\Users\anivarth\Desktop\poi-3.15\lib\xmlbeans-2.6.0.jar
+
+!ENTRY org.eclipse.jdt.launching 4 150 2016-11-02 15:47:50.007
+!MESSAGE The archive: C:/Users/anivarth/Desktop/poi-3.15/lib/commons-codec-1.10.jar which is referenced by the classpath, does not exist.
+!SESSION 2016-11-02 15:56:49.489 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.version=1.7.0_79
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2016-11-02 15:57:06.251
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2016-11-02 15:57:06.253
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\anivarth'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.core.net 4 0 2016-11-02 16:03:51.012
+!MESSAGE WinHttp.DetectAutoProxyConfigUrl for wpad failed with error 'The Proxy Auto-configuration URL was not found.
+' #12180.
+!SESSION 2016-11-02 16:04:52.762 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.version=1.7.0_79
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2016-11-02 16:05:16.577
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2016-11-02 16:05:16.578
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\anivarth'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.core.net 4 0 2016-11-02 16:05:48.599
+!MESSAGE WinHttp.DetectAutoProxyConfigUrl for wpad failed with error 'The Proxy Auto-configuration URL was not found.
+' #12180.
+!SESSION 2016-11-02 16:06:34.982 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.version=1.7.0_79
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2016-11-02 16:06:56.665
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2016-11-02 16:06:56.665
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\anivarth'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.testng.eclipse 1 0 2016-11-02 16:11:54.620
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\anivarth\Documents\Selenium Eclipse updates\eclipse\plugins\org.testng.eclipse_6.9.13.201609291640\lib\testng-remote.jar C:\Users\anivarth\Documents\Eclipse program file new\SeleniumProgramFile\bin C:\Users\anivarth\Downloads\selenium-server-standalone-2.53.1.jar C:\Users\anivarth\Documents\Selenium Eclipse updates\eclipse\plugins\org.testng.eclipse_6.9.13.201609291640\lib\testng.jar C:\Users\anivarth\Documents\Selenium Eclipse updates\eclipse\plugins\org.testng.eclipse_6.9.13.201609291640\lib\jcommander.jar C:\Users\anivarth\Documents\Selenium Eclipse updates\eclipse\plugins\org.testng.eclipse_6.9.13.201609291640\lib\bsh-2.0b4.jar C:\Users\anivarth\Documents\Selenium Eclipse updates\eclipse\plugins\org.testng.eclipse_6.9.13.201609291640\lib\snakeyaml.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 53154 -protocol json -d C:\Users\anivarth\Documents\Eclipse program file new\SeleniumProgramFile\test-output C:\Users\anivarth\AppData\Local\Temp\testng-eclipse-17445847\testng-customsuite.xml
+java -ea -classpath C:\Users\anivarth\Documents\Selenium Eclipse updates\eclipse\plugins\org.testng.eclipse_6.9.13.201609291640\lib\testng-remote.jar:C:\Users\anivarth\Documents\Eclipse program file new\SeleniumProgramFile\bin:C:\Users\anivarth\Downloads\selenium-server-standalone-2.53.1.jar:C:\Users\anivarth\Documents\Selenium Eclipse updates\eclipse\plugins\org.testng.eclipse_6.9.13.201609291640\lib\testng.jar:C:\Users\anivarth\Documents\Selenium Eclipse updates\eclipse\plugins\org.testng.eclipse_6.9.13.201609291640\lib\jcommander.jar:C:\Users\anivarth\Documents\Selenium Eclipse updates\eclipse\plugins\org.testng.eclipse_6.9.13.201609291640\lib\bsh-2.0b4.jar:C:\Users\anivarth\Documents\Selenium Eclipse updates\eclipse\plugins\org.testng.eclipse_6.9.13.201609291640\lib\snakeyaml.jar org.testng.remote.RemoteTestNG -serport 53154 -protocol json -d C:\Users\anivarth\Documents\Eclipse program file new\SeleniumProgramFile\test-output C:\Users\anivarth\AppData\Local\Temp\testng-eclipse-17445847\testng-customsuite.xml
